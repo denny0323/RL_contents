@@ -1,3 +1,3 @@
 # RL_contents
 
-# http://gist.github.com/denny0323
+http://gist.github.com/denny0323
